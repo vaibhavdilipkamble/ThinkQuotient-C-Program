@@ -1,1 +1,1 @@
-# ThinkQuotient-C-Program
+# ThinkQuotient-CSharp Program
